@@ -1,0 +1,8 @@
+
+*.1
+*.v2
+*.vsidx
+*.lock
+.vs/SeedConditionsExample/v17/*
+bin/Debug/net6.0/*
+obj/*

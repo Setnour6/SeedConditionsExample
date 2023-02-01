@@ -1,0 +1,18 @@
+Secret Seed Conditions Example by Setnour6.
+
+THIS IS AN EXPERIMENTAL 1.4.4 MOD!
+You can fully utilize this mod by going to the tModLoader GitHub Repository, going to the integrated wiki on the repository, following the 'I want to contribute to tModLoader' steps (make sure to 'regenerate source' after setup), then play 1.4.4 tModLoader, and lastly enabling this mod.
+
+This mod is used for testing loot drops based on secret seeds.
+So far, this mod tests the Hellbat and Lava Bat NPCs item drops based on which seed you are on.
+
+Drunk World: Flowing Magma Painting
+Not The Bees: Crispy Honey Block
+For The Worthy: Living Fire Block
+10th Anniversary: Burning Spirit Painting
+The Constant/Don't Starve: Spicy Pepper
+Remix/Don't Dig Up: Flamelash
+No Traps: Flame Trap
+Zenith/Everything/Get Fixed Boi: Lake of Fire Painting and Living Flame Dye
+
+I recommend that you use Terrasavr to get a fully researched character so you can get free items to go to the underworld quicker.
